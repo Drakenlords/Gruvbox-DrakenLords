@@ -1,6 +1,6 @@
 # Gruvbox DrakenLords
 
-## Beautiful Dark Collection
+## Beautiful Dark Collection 🐲🐲🐲
 #### - Gruvbox DrakenLords Dark Draken -
 ![dark draken](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/dark%20draken.png)
 (Font: Operator Mono)
@@ -14,5 +14,6 @@
 ![grey](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/grey.png)
 (Font: Operator Mono)
 
-**Enjoy!**
-**Disfruta!**
+**Enjoy! 🐲**
+**Disfruta! 🐲**
+
