@@ -38,3 +38,7 @@ ___
 ## **Disfrutalo 🐲**
 
 ## **Enjoy 🐲**
+
+
+* [**Donar**](https://paypal.me/drakendoncion?locale.x=es_XC "Paypal")
+* [**Donations**](https://paypal.me/drakendoncion?locale.x=es_XC "Paypal")
