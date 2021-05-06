@@ -35,10 +35,27 @@ ___
 
 * [**Download Here**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords)
 ___
+* Mas Personalizacion 
+
+[*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
+
+[*Material Icon Theme*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+[*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
+
+* More Personalization
+ 
+[*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
+
+[*Material Icon Theme*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+[*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
+
+___
 ## **Disfrutalo 🐲**
 
 ## **Enjoy 🐲**
-
+___
 
 * [**Donar**](https://paypal.me/drakendoncion?locale.x=es_XC "Paypal")
 * [**Donations**](https://paypal.me/drakendoncion?locale.x=es_XC "Paypal")
