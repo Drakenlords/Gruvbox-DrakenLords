@@ -1,9 +1,13 @@
-# Gruvbox DrakeLords 🐲🐲🐲
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/icon.png" width="150" />
+    <h2 align="center">Gruvbox DrakeLords 🐲🐲🐲 for VsCode</h2>
+</p>
 
-## Tema oscuro Basado en la paleta de Color original del Gruvbox de [*Morhetz*](https://github.com/morhetz/gruvbox "tema original") para [**Visual Studio Code.**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "Tema para descargar desde MarketPlace")
-___
+ ---
 
-### Dark theme Based on the original Gruvbox Color palette from [*Morhetz*](https://github.com/morhetz/gruvbox "Original Theme") for [**Visual Studio Code.**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "download from marketplace")
+#### Tema oscuro Basado en la paleta de Color original del Gruvbox de [*Morhetz*](https://github.com/morhetz/gruvbox "tema original") para [**Visual Studio Code.**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "Tema para descargar desde MarketPlace")
+
+#### Dark theme Based on the original Gruvbox Color palette from [*Morhetz*](https://github.com/morhetz/gruvbox "Original Theme") for [**Visual Studio Code.**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "download from marketplace")
 ___
 
 * [**Descarga Aquí**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords)
