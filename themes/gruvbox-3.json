@@ -59,6 +59,11 @@
     "statusBar.foreground": "#97a7c8ff",
     "statusBar.background": "#3c3836",
     "statusBar.debuggingBackground": "#3c3836",
+    "statusBar.noFolderBackground": "#3c3836",
+    "statusBar.noFolderBorder": "#3c3836" ,
+    "statusBar.noFolderForeground": "#EBDBB2" ,
+    "statusBar.debuggingBorder": "#b16286" ,
+    "statusBar.debuggingForeground": "#EBDBB2" ,
     "activityBar.background": "#3c3836",
     "activityBar.foreground": "#cccccc",
     "activityBarBadge.background": "#83a598",
@@ -172,7 +177,7 @@
     {
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#8f3f71"
+        "foreground": "#b16286"
       }
     },
     {
