@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/icon.png" width="150" />
-    <h2 align="center">Gruvbox DrakeLords 🐲🐲🐲 for VsCode</h2>
+    <h2 align="center">🐲 Gruvbox DrakeLords 🐲 for VsCode</h2>
 </p>
 
  ---
