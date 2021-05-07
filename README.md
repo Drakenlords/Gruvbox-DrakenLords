@@ -1,45 +1,49 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/icon.png" width="150" />
-    <h2 align="center">🐲 Gruvbox DrakeLords 🐲 for VsCode</h2>
+    <h2 align="center">🐲Gruvbox DrakeLords 🐲 for VsCode</h2>
 </p>
 
  ---
 
-#### Tema oscuro Basado en la paleta de Color original del Gruvbox de [*Morhetz*](https://github.com/morhetz/gruvbox "tema original") para [**Visual Studio Code.**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "Tema para descargar desde MarketPlace")
+#### Tema oscuro Basado en la paleta de Color original del Gruvbox de [*Morhetz*](https://github.com/morhetz/gruvbox "tema original") para **Visual Studio Code**.
 
-#### Dark theme Based on the original Gruvbox Color palette from [*Morhetz*](https://github.com/morhetz/gruvbox "Original Theme") for [**Visual Studio Code.**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "download from marketplace")
-___
+#### Dark theme Based on the original Gruvbox Color palette from [*Morhetz*](https://github.com/morhetz/gruvbox "Original Theme") for **Visual Studio Code**.
 
-* [**Descarga Aquí**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords)
+---
 
-* [**Download Here**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords)
 
-___
-* **Gruvbox DrakenLords Dark**
+
+[**Descarga Aqui**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "Descargar Para VsCode")
+
+[**Download Here**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords "Download to VsCode")
+
+---
+
+<h3 align="center">Gruvbox DrakenLords Dark</h3> 
 
 ![Dark](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/Dark.png "original")
 * Font: *Operator Mono*
 
-* **Gruvbox DrakenLords Draken**
-___
+<h3 align="center">Gruvbox DrakenLords Draken</h3>
+
+
 ![Dark Draken](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/dark%20draken.png "My Custom")
 * Font: *Operator Mono*
 
-* **Gruvbox DrakenLords Grey**
-___
+<h3 align="center">Gruvbox DrakenLords Grey</h3>
+
+
 ![Grey](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/grey.png "original")
 * Font: *Operator Mono*
 
-* **Gruvbox DrakenLords Semi Dark**
-___
-![Semi Dark](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/semi%20dark.png "original")
-* Font: *Operator Mono*
-___
-* [**Descarga Aquí**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords)
+<h3 align="center">Gruvbox DrakenLords Semi Dark</h3> 
 
-* [**Download Here**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords)
+
+
+![Semi Dark](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/semi%20dark.png "original")
+* Font: Operator Mono
 ___
-* Mas Personalizacion 
+* Mas Personalización 
 
 [*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
