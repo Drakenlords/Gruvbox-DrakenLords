@@ -79,6 +79,30 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 
 [*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 
+[*Bracket Pair Colorizer*](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+> *my colors to Bracket Pair Colorizer*
+  ```json
+      "bracketPairColorizer.consecutivePairColors": [
+      "()",
+      "[]",
+      "{}",
+      [
+        "#7c6f64",
+        "#a89984",
+        "#d5c4a1",
+        "#8ec07c",
+        "#83a598",
+        "#d3869b",
+        "#fb4934",
+        "#fe8019",
+        "#fabd2f",
+        "#b8bb26"
+      ],
+      "#cc241d"
+    ],
+  
+  ```
 ___
 ## **Disfrutalo 🐲**
 
