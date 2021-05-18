@@ -82,9 +82,10 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 [*Bracket Pair Colorizer*](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 > *my colors to Bracket Pair Colorizer*
+
   ```json
       "bracketPairColorizer.consecutivePairColors": [
-      "()",
+        "()",
       "[]",
       "{}",
       [
@@ -103,6 +104,9 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
     ],
   
   ```
+*Pon esto en tu archivo de configuración Json de Vs Code después de instalar Bracket Pair Colorizer*
+
+*put this in you Vs Code Json Configuration after install Bracket Pair Colorizer.*
 ___
 ## **Disfrutalo 🐲**
 
