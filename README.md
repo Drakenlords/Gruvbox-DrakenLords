@@ -12,8 +12,8 @@
 ---
 ## install:
 
-  - <img src="https://www.flaticon.es/svg/vstatic/svg/152/152755.svg?token=exp=1620523283~hmac=bd4203935c15beeb877b09e8556ab29d" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">Linux</a> `Ctrl+P`
-  - <img src="https://www.flaticon.es/svg/vstatic/svg/2/2235.svg?token=exp=1620523175~hmac=bd815585e2f192515a59f8853ef1236b" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">macOS</a> `⌘P`
+  - <img src="https://image.flaticon.com/icons/png/512/37/37737.png" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">Linux</a> `Ctrl+P`
+  - <img src="https://image.flaticon.com/icons/png/512/2/2235.png" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">macOS</a> `⌘P`
   - <img src="https://image.flaticon.com/icons/png/512/121/121146.png" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">Windows</a> `Ctrl+P`
 
 Pega el Siguiente Comando y luego presiona `Enter`:

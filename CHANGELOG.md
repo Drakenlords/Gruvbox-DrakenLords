@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "gruvbox-draken" extension will be documented in this file.
+## [Version 1.3.9]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Color adjust
+- more colors 
+- some bugs removed 
