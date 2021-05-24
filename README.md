@@ -37,26 +37,27 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 <h3 align="center">🐲 Gruvbox DrakenLords Dark 🐲</h3> 
 
 ![Dark](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/Dark.png "original")
-* Font: *Operator Mono*
+* Font: [*Operator Mono Lig*](https://github.com/Drakenlords/Mis-fuentes-para-Programar "download here")
 
 <h3 align="center">🐲 Gruvbox DrakenLords Draken 🐲</h3>
 
 
 ![Dark Draken](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/dark%20draken.png "My Custom")
-* Font: *Operator Mono*
+* Font: [*Operator Mono Lig*](https://github.com/Drakenlords/Mis-fuentes-para-Programar "download here")
 
 <h3 align="center">🐲 Gruvbox DrakenLords Grey 🐲</h3>
 
 
 ![Grey](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/grey.png "original")
-* Font: *Operator Mono*
+* Font: [*Operator Mono Lig*](https://github.com/Drakenlords/Mis-fuentes-para-Programar "download here")
 
 <h3 align="center">🐲 Gruvbox DrakenLords Semi Dark 🐲</h3> 
 
 
 
 ![Semi Dark](https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/semi%20dark.png "original")
-* Font: Operator Mono
+* Font: [*Operator Mono Lig*](https://github.com/Drakenlords/Mis-fuentes-para-Programar "download here")
+
 ---
 
 <h3 align="center">👇 Extras 👇</h3>
@@ -108,7 +109,7 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
   ```
 *Pon esto en tu archivo de configuración Json de Vs Code después de instalar Bracket Pair Colorizer*
 
-*put this in you Vs Code Json Configuration after install Bracket Pair Colorizer.*
+*put this in your Vs Code Json Configuration after install Bracket Pair Colorizer.*
 ___
 ## **Disfrutalo 🐲**
 
