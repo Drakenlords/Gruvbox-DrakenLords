@@ -68,7 +68,7 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 
 [*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
-[*Material Icon Theme*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#review-details)
 
 [*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 
@@ -78,7 +78,7 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
  
 [*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
-[*Material Icon Theme*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#review-details)
 
 [*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 
