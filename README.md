@@ -24,7 +24,7 @@ Paste the Next Command and then press `Enter`:
 ext install DrakenLords.gruvbox-draken-lords
 ```
 
-O solo has [**Click Aqui**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords) ve a la tienda y has la descarga manual
+O solo has [**Click Aquí**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords) ve a la tienda y has la descarga manual
 
 Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords) and go to the Marketplace to make a manual download 
 
@@ -68,7 +68,7 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 
 [*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
-[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#review-details)
+[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#overview)
 
 [*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 
@@ -78,7 +78,7 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
  
 [*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
-[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#review-details)
+[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#overview)
 
 [*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 
