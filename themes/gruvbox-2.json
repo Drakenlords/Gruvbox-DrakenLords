@@ -42,6 +42,8 @@
     "editor.lineHighlightBorder": "#504945",
     "editor.lineHighlightBackground": "#504945ee",
     "editor.hoverHighlightBackground": "#282828",
+    "editor.wordHighlightStrongBackground": "#45858833",
+    "editor.wordHighlightBackground": "#45858833",
     "editorWarning.foreground": "#d79921",
     "editorError.foreground": "#cc241d",
     "editorSuggestWidget.background": "#1d2021",
