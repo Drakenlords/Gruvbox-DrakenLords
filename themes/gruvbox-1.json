@@ -72,6 +72,8 @@
     "tab.activeForeground": "#fbf1c7",
     "tab.inactiveForeground": "#cccccc",
     "progressBar.background": "#83a598",
+    "textBlockQuote.background": "#031417",
+    "textCodeBlock.background": "#031417",
     "editorGroup.background": "#031417",
     "editorGroupHeader.tabsBackground": "#031417",
     "editorGroupHeader.noTabsBackground": "#031417",
@@ -163,7 +165,7 @@
     {
       "settings": {
         "foreground": "#fbf1c7ff",
-        "background": "#031417"
+        "background": "#1d2021"
       }
     },
     {
@@ -707,7 +709,7 @@
     {
       "scope": "string.other.link.title.markdown",
       "settings": {
-        "foreground": "#928374",
+        "foreground": "#504945",
         "fontStyle": "underline"
       }
     },
@@ -887,7 +889,15 @@
       ],
       "settings": {
         "foreground": "#8ec07c",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "scope":[
+        "text.html entity.other.attribute-name"
+      ],
+      "settings":{
+        "fontStyle":"italic"
       }
     },
     {

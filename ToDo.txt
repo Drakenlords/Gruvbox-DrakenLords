@@ -1,2 +1,2 @@
 to do:
-    - cursivas en las clases de html
+    - subrayado azul

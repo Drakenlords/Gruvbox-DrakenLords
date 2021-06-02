@@ -91,6 +91,8 @@
     "terminalCursor.foreground": "#689d6a",
     "terminal.border": "#689d6a",
     "progressBar.background": "#83a598",
+    "textBlockQuote.background": "#3c3836",
+    "textCodeBlock.background": "#3c3836",
     "editorGroup.background": "#3c3836",
     "editorGroupHeader.tabsBackground": "#3c3836",
     "editorGroupHeader.noTabsBackground": "#3c3836",
@@ -162,7 +164,7 @@
     {
       "settings": {
         "foreground": "#fbf1c7ff",
-        "background": "#3c3836"
+        "background": "#1d2021"
       }
     },
     {
@@ -706,7 +708,7 @@
     {
       "scope": "string.other.link.title.markdown",
       "settings": {
-        "foreground": "#928374",
+        "foreground": "#504945",
         "fontStyle": "underline"
       }
     },
@@ -886,7 +888,15 @@
       ],
       "settings": {
         "foreground": "#8ec07c",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "scope":[
+        "text.html entity.other.attribute-name"
+      ],
+      "settings":{
+        "fontStyle":"italic"
       }
     },
     {

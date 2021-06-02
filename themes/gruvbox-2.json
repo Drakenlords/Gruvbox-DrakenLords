@@ -71,6 +71,8 @@
     "tab.activeForeground": "#fbf1c7",
     "tab.inactiveForeground": "#cccccc",
     "progressBar.background": "#83a598",
+    "textBlockQuote.background": "#1d2021",
+    "textCodeBlock.background": "#1d2021",
     "editorGroup.background": "#1d2021",
     "editorGroupHeader.tabsBackground": "#1d2021",
     "editorGroupHeader.noTabsBackground": "#1d2021",
@@ -886,7 +888,15 @@
       ],
       "settings": {
         "foreground": "#8ec07c",
-        "fontStyle": "bold"
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "scope":[
+        "text.html entity.other.attribute-name"
+      ],
+      "settings":{
+        "fontStyle":"italic"
       }
     },
     {
