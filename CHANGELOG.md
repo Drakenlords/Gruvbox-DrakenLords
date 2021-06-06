@@ -1,5 +1,12 @@
 # Change Log
 
+## [Version 1.5.0]
+
+- Italic and Bold Fixed
+- Colors adjusted
+- bugs Fixed
+- Code Examples Added
+
 ## [Version 1.4.1]
 
 - Colors adjust

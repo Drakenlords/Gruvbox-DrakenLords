@@ -21,7 +21,7 @@
     "list.activeSelectionForeground": "#fbf1c7",
     "list.inactiveSelectionBackground": "#1d2021",
     "list.inactiveSelectionForeground": "#fbf1c7",
-    "list.hoverBackground": "#333333",
+    "list.hoverBackground": "#fbf1c722",
     "list.highlightForeground": "#ebdbb2",
     "list.focusBackground": "#333333",
     "list.focusForeground": "#ebdbb2",
@@ -63,13 +63,15 @@
     "editorIndentGuide.background": "#7c6f64",
     "editorIndentGuide.activeBackground": "#a89984",
     "editorRuler.foreground": "#18222Dff",
+    "editorInfo.foreground": "#458588",
+    "editorInfo.border": "#1d2021",
     "tab.activeBackground": "#1d2021",
     "tab.inactiveBackground": "#1d2021",
     "tab.border": "#1d2021",
     "tab.activeBorder": "#fbf1c7",
     "tab.unfocusedActiveBorder": "#1d2021",
     "tab.activeForeground": "#fbf1c7",
-    "tab.inactiveForeground": "#cccccc",
+    "tab.inactiveForeground": "#fbf1c777",
     "progressBar.background": "#83a598",
     "textBlockQuote.background": "#1d2021",
     "textCodeBlock.background": "#1d2021",
@@ -80,7 +82,7 @@
     "panel.background": "#1d2021",
     "panel.border": "#a89984",
     "panelTitle.activeForeground": "#fbf1c7",
-    "panelTitle.inactiveForeground": "#cccccc",
+    "panelTitle.inactiveForeground": "#fbf1c777",
     "statusBar.foreground": "#EBDBB2",
     "statusBar.background": "#1d2021",
     "statusBar.debuggingBackground": "#1d2021",
@@ -91,7 +93,7 @@
     "statusBar.debuggingForeground": "#EBDBB2" ,
     "activityBar.background": "#1d2021",
     "activityBar.foreground": "#fbf1c7",
-    "activityBar.inactiveForeground":"#ccc",
+    "activityBar.inactiveForeground":"#83a59888",
     "activityBarBadge.background": "#b8bb26",
     "activityBarBadge.foreground": "#000000",
     "sideBar.background": "#1d2021",
@@ -100,7 +102,7 @@
     "sideBarSectionHeader.foreground": "#EBDBB2",
     "sideBarSectionHeader.background": "#1d2021",
     "titleBar.inactiveBackground": "#1d2021",   
-    "titleBar.inactiveForeground": "#cccccc",
+    "titleBar.inactiveForeground": "#EBDBB299",
     "titleBar.activeBackground": "#1d2021",
     "titleBar.activeForeground": "#EBDBB2",
     "terminal.ansiBlack": "#1d2021",
@@ -447,6 +449,24 @@
         "foreground": "#fabd2f"
       }
     },
+    {
+    "scope": "support.function.command.viml",
+    "settings":{
+      "foreground": "#fb4934"
+    }
+  },
+  {
+    "scope": "support.variable.option.viml",
+    "settings":{
+      "foreground": "#689d6a"
+    }
+  },
+  {
+    "scope": "support.function.syntax-item.viml",
+    "settings":{
+      "foreground": "#fb4934"
+    }
+  },
     {
       "name": "Function declarations",
       "scope": [

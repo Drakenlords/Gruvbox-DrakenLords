@@ -21,7 +21,7 @@
     "list.activeSelectionForeground": "#fbf1c7",
     "list.inactiveSelectionBackground": "#3c3836",
     "list.inactiveSelectionForeground": "#fbf1c7",
-    "list.hoverBackground": "#1d2021",
+    "list.hoverBackground": "#fbf1c722",
     "list.highlightForeground": "#ebdbb2",
     "list.focusBackground": "#1d2021",
     "list.focusForeground": "#ebdbb2",
@@ -63,13 +63,15 @@
     "editorRuler.foreground": "#18222Dff",
     "editorHoverWidget.border": "#fbf1c7",
     "editorSuggestWidget.border": "#fbf1c7",
+    "editorInfo.foreground": "#458588",
+    "editorInfo.border": "#3c3836",
     "tab.activeBackground": "#3c3836",
     "tab.inactiveBackground": "#3c3836",
     "tab.border": "#3c3836",
     "tab.activeBorder": "#fbf1c7",
     "tab.unfocusedActiveBorder": "#3c3836",
     "tab.activeForeground": "#fbf1c7",
-    "tab.inactiveForeground": "#cccccc",
+    "tab.inactiveForeground": "#fbf1c777",
     "terminal.ansiBlack": "#1d2021",
     "terminal.ansiRed": "#cc241d",
     "terminal.ansiGreen": "#98971a",
@@ -100,7 +102,7 @@
     "panel.background": "#3c3836",
     "panel.border": "#a89984",
     "panelTitle.activeForeground": "#fbf1c7",
-    "panelTitle.inactiveForeground": "#cccccc",
+    "panelTitle.inactiveForeground": "#fbf1c777",
     "statusBar.foreground": "#EBDBB2",
     "statusBar.background": "#3c3836",
     "statusBar.debuggingBackground": "#3c3836",
@@ -112,7 +114,7 @@
     "activityBar.background": "#3c3836",
     "activityBar.foreground": "#fbf1c7",
     "activityBarBadge.background": "#b8bb26",
-    "activityBar.inactiveForeground":"#ccc",
+    "activityBar.inactiveForeground":"#83a59888",
     "activityBarBadge.foreground": "#000000",
     "sideBar.background": "#3c3836",
     "sideBar.foreground": "#EBDBB2",
@@ -120,7 +122,7 @@
     "sideBarSectionHeader.foreground": "#EBDBB2",
     "sideBarSectionHeader.background": "#3c3836",
     "titleBar.inactiveBackground": "#3c3836",   
-    "titleBar.inactiveForeground": "#cccccc",
+    "titleBar.inactiveForeground": "#83a59888",
     "titleBar.activeBackground": "#3c3836",
     "titleBar.activeForeground": "#EBDBB2",
     "debugToolBar.background": "#3c3836",
@@ -423,6 +425,24 @@
       ],
       "settings": {
         "foreground": "#fabd2f"
+      }
+    },
+    {
+      "scope": "support.function.command.viml",
+      "settings":{
+        "foreground": "#fb4934"
+      }
+    },
+    {
+      "scope": "support.variable.option.viml",
+      "settings":{
+        "foreground": "#689d6a"
+      }
+    },
+    {
+      "scope": "support.function.syntax-item.viml",
+      "settings":{
+        "foreground": "#fb4934"
       }
     },
     {
