@@ -7,11 +7,13 @@
 - bugs Fixed
 - Code Examples Added
 
+---
 ## [Version 1.4.1]
 
 - Colors adjust
 - bugs Fixed 
 
+---
 ## [Version 1.4.0]
 
 - Line selector adjusted
