@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/DrakenLords.gruvbox-draken-lords?color=%23b8bb26&label=Theme%20Version&style=for-the-badge">
+<a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords" target="__blank"><img alt="Visual Studio Marketplace DrakenLords Gruvbox" src="https://img.shields.io/visual-studio-marketplace/v/DrakenLords.gruvbox-draken-lords?color=%23b8bb26&label=Theme%20Version&style=for-the-badge">
 </p>
 
  ---
