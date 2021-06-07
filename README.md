@@ -3,6 +3,10 @@
     <h2 align="center">🐲Gruvbox DrakeLords 🐲 for VsCode</h2>
 </p>
 
+<p align="center">
+<img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/DrakenLords.gruvbox-draken-lords?color=%23b8bb26&label=Theme%20Version&style=for-the-badge">
+</p>
+
  ---
 
 #### Tema oscuro Basado en la paleta de Color original del Gruvbox de [*Morhetz*](https://github.com/morhetz/gruvbox "tema original") para **Visual Studio Code**.
@@ -12,9 +16,9 @@
 ---
 ## install:
 
-  - <img src="https://image.flaticon.com/icons/png/512/37/37737.png" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">Linux</a> `Ctrl+P`
-  - <img src="https://image.flaticon.com/icons/png/512/2/2235.png" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">macOS</a> `⌘P`
-  - <img src="https://image.flaticon.com/icons/png/512/121/121146.png" width=20 height=20/> <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords">Windows</a> `Ctrl+P`
+  - <img src="https://image.flaticon.com/icons/png/512/37/37737.png" width=20 height=20/> **Linux** </a> `Ctrl+P`
+  - <img src="https://image.flaticon.com/icons/png/512/2/2235.png" width=20 height=20/> **macOS** </a> `⌘P`
+  - <img src="https://image.flaticon.com/icons/png/512/121/121146.png" width=20 height=20/> **Windows** </a> `Ctrl+P`
 
 Pega el Siguiente Comando y luego presiona `Enter`:
 
