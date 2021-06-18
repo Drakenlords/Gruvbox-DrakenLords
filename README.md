@@ -68,27 +68,16 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 
 ---
 
-* Mas Personalización 
-
-[*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
-
-[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#overview)
-
-[*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
-
-[*Bracket Pair Colorizer*](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
 * More Personalization
- 
-[*Clock*](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
-[*Material Icon Theme Gruvbox*](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#overview)
+[**Clock**](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock) 
 
-[*Material Product Icons*](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
+[**Material Icon Theme Gruvbox**](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme&ssr=false#overview)
 
-[*Bracket Pair Colorizer*](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+[**Material Product Icons**](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 
-> *my colors to Bracket Pair Colorizer*
+[**Bracket Pair Colorizer**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 
   ```json
       "bracketPairColorizer.consecutivePairColors": [
@@ -113,6 +102,16 @@ Or Just [**Click Here**](https://marketplace.visualstudio.com/items?itemName=Dra
 *Pon esto en tu archivo de configuración Json de Vs Code después de instalar Bracket Pair Colorizer*
 
 *put this in your Vs Code Json Configuration after install Bracket Pair Colorizer.*
+
+[**footsteps**](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps)
+
+*my footsteps configuration*
+
+  ```json
+    "footsteps.highlightColor":"rgb(104, 157, 106)",
+    "footsteps.highlightColorMaxOpacity": 0.2,
+  ```
+[**Fluent Icons**](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)  
 ___
 ## **Disfrutalo 🐲**
 
