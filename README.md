@@ -2,14 +2,11 @@
     <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/icon.png" width="150" />
     <h2 align="center">🐲Gruvbox DrakeLords 🐲 for VsCode</h2>
 </p>
-
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=DrakenLords.gruvbox-draken-lords" target="__blank"><img alt="Visual Studio Marketplace DrakenLords Gruvbox" src="https://img.shields.io/visual-studio-marketplace/v/DrakenLords.gruvbox-draken-lords?color=%23b8bb26&label=Theme%20Version&style=for-the-badge">
 </p>
 
  ---
-
-#### Tema oscuro Basado en la paleta de Color original del Gruvbox de [*Morhetz*](https://github.com/morhetz/gruvbox "tema original") para **Visual Studio Code**.
 
 #### Dark theme Based on the original Gruvbox Color palette from [*Morhetz*](https://github.com/morhetz/gruvbox "Original Theme") for **Visual Studio Code**.
 
