@@ -2,11 +2,11 @@
 	"name": "gruvbox-draken-lords",
 	"displayName": "Gruvbox DrakenLords",
 	"description": "Gruvbox Dark Collections by DrakenLords 🐉",
-	"version": "1.5.0",
+	"version": "1.5.5",
 	"publisher": "DrakenLords",
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#031417",
+		"color": "#1d2021",
 		"theme": "dark"
 	},
 	"homepage": "https://github.com/Drakenlords/Gruvbox-DrakenLords",

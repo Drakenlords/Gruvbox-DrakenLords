@@ -1,2 +1,4 @@
-to do:
-    - Fix Bugs
+TODO:
+    - Prepare the next version.
+    - adjust Readme.md
+    - resolve some Bugs and fix another thing
