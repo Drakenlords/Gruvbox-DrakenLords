@@ -18,7 +18,7 @@
     "inputValidation.warningForeground": "#fabd2f",
     "inputValidation.warningBackground": "#d79921",
     "inputValidation.warningBorder": "#d5c4a1",
-    "list.activeSelectionBackground": "#031417",
+    "list.activeSelectionBackground": "#45858822",
     "list.activeSelectionForeground": "#fabd2f",
     "list.inactiveSelectionBackground": "#031417",
     "list.inactiveSelectionForeground": "#fbf1c7",
@@ -76,6 +76,8 @@
     "progressBar.background": "#83a598",
     "textBlockQuote.background": "#031417",
     "textCodeBlock.background": "#031417",
+    "textLink.activeForeground":"#fbf1c7",
+    "textLink.Foreground":"#fbf1c7",
     "editorGroup.background": "#031417",
     "editorGroupHeader.tabsBackground": "#031417",
     "editorGroupHeader.noTabsBackground": "#031417",
@@ -99,7 +101,7 @@
     "activityBarBadge.foreground": "#000000",
     "sideBar.background": "#031417",
     "sideBar.foreground": "#EBDBB2",
-    "sideBar.border": "#031417",
+    "sideBar.border": "#45858822",
     "sideBarSectionHeader.foreground": "#EBDBB2",
     "sideBarSectionHeader.background": "#031417",
     "titleBar.inactiveBackground": "#031417",   
@@ -177,7 +179,7 @@
       }
     },
     {
-      "scope": "function-call.ts",
+      "scope": "entity.name.function.ts",
       "settings": {
         "foreground": "#83A598"
       }

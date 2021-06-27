@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="./images/changelogs images/change log.png" width="100%" />
+    <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/changelogs%20images/change%20log.png" width="100%" />
 </p>
 
 ---
 <p align="center">
-    <img src="./images/changelogs images/version%201.5.5.png" width="70%" />
+    <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/changelogs%20images/version%201.5.5.png" width="70%" />
 </p>
 
 - 🐉 Icon changed
@@ -12,13 +12,13 @@
 - 🐉 Bugs fixed
 - 🐉 Indent colors adjusted
 - 🐉 typeScript adjusted colors
-- 🐉 selections colors changes in the tilling windows `Ctrl+Shift+p` `Ctrl+.`
+- 🐉 selection colours has been changes in the hover windows `Ctrl+Shift+p` `Ctrl+.`
 - 🐉 license added
 - 🐉 Changelog has been remastered.
 
 ---
 <p align="center">
-    <img src="./images/changelogs images/version%201.5.0.png" width="70%" />
+    <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/changelogs%20images/version%201.5.0.png" width="70%" />
 </p>
 
 - 🐉 Italic and Bold Fixed
