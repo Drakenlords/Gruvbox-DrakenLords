@@ -2,7 +2,7 @@
   "name": "Gruvbox DrakenLords Dark",
   "type": "dark",
   "colors": {
-    "focusBorder": "#fbf1c7",
+    "focusBorder": "#ebdbb299",
     "widget.shadow": "#00000026",
     "input.background": "#1d2021",
     "input.foreground": "#ebdbb2",
@@ -18,15 +18,15 @@
     "inputValidation.warningBackground": "#d79921",
     "inputValidation.warningBorder": "#d5c4a1",
     "list.activeSelectionBackground": "#1d2021",
-    "list.activeSelectionForeground": "#fbf1c7",
+    "list.activeSelectionForeground": "#fabd2f",
     "list.inactiveSelectionBackground": "#1d2021",
     "list.inactiveSelectionForeground": "#fbf1c7",
     "list.hoverBackground": "#fbf1c722",
     "list.highlightForeground": "#ebdbb2",
     "list.focusBackground": "#333333",
     "list.focusForeground": "#ebdbb2",
-    "button.hoverBackground": "#ebdbb2",
-    "scrollbar.shadow": "#4f4f4f",
+    "button.hoverBackground": "#ebdbb277",
+    "scrollbar.shadow": "#1d2021",
     "scrollbarSlider.background": "#4f4f4f",
     "scrollbarSlider.hoverBackground": "#4f4f4f",
     "editorOverviewRuler.border": "#1d2021",
@@ -44,6 +44,8 @@
     "editor.hoverHighlightBackground": "#282828",
     "editor.wordHighlightStrongBackground": "#45858833",
     "editor.wordHighlightBackground": "#45858833",
+    "editorIndentGuide.background": "#83a59811",
+    "editorIndentGuide.activeBackground": "#83a59899",
     "editorWarning.foreground": "#d79921",
     "editorError.foreground": "#cc241d",
     "editorSuggestWidget.background": "#1d2021",
@@ -60,8 +62,6 @@
     "editorCursor.background": "#98971a",
     "editorCursor.foreground": "#b8bb26",
     "editorWhitespace.foreground": "#18222Dff",
-    "editorIndentGuide.background": "#7c6f64",
-    "editorIndentGuide.activeBackground": "#a89984",
     "editorRuler.foreground": "#18222Dff",
     "editorInfo.foreground": "#458588",
     "editorInfo.border": "#1d2021",
@@ -85,12 +85,12 @@
     "panelTitle.inactiveForeground": "#fbf1c777",
     "statusBar.foreground": "#EBDBB2",
     "statusBar.background": "#1d2021",
-    "statusBar.debuggingBackground": "#1d2021",
     "statusBar.noFolderBackground": "#1d2021",
     "statusBar.noFolderBorder": "#1d2021" ,
     "statusBar.noFolderForeground": "#ebdbb2" ,
-    "statusBar.debuggingBorder": "#d65d0e" ,
-    "statusBar.debuggingForeground": "#EBDBB2" ,
+    "statusBar.debuggingBackground": "#d65d0e",
+    "statusBar.debuggingBorder": "#1d2021",
+    "statusBar.debuggingForeground": "#fbf1c7",
     "activityBar.background": "#1d2021",
     "activityBar.foreground": "#fbf1c7",
     "activityBar.inactiveForeground":"#83a59888",
@@ -155,7 +155,7 @@
     "minimapGutter.modifiedBackground": "#83a598",
     "minimapGutter.deletedBackground": "#fe9019",
     "minimap.background": "#1d2021",
-    "gitDecoration.addedResourceForeground": "#98971a",
+    "gitDecoration.addedResourceForeground": "#b8bb26",
     "gitDecoration.modifiedResourceForeground": "#458588",
     "gitDecoration.deletedResourceForeground": "#d65d0e",
     "gitDecoration.untrackedResourceForeground": "#83a598",
@@ -167,6 +167,12 @@
       "settings": {
         "foreground": "#fbf1c7ff",
         "background": "#1d2021"
+      }
+    },
+    {
+      "scope": "entity.name.function.ts",
+      "settings": {
+        "foreground": "#83A598"
       }
     },
     {

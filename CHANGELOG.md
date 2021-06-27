@@ -1,30 +1,29 @@
-# Change Log
-
-## [Version 1.5.0]
-
-- Italic and Bold Fixed
-- Colors adjusted
-- bugs Fixed
-- Code Examples Added
+<p align="center">
+    <img src="./images/changelogs images/change log.png" width="100%" />
+</p>
 
 ---
-## [Version 1.4.1]
+<p align="center">
+    <img src="./images/changelogs images/version%201.5.5.png" width="70%" />
+</p>
 
-- Colors adjust
-- bugs Fixed 
+- 🐉 Icon changed
+- 🐉 Readme adjusted
+- 🐉 Bugs fixed
+- 🐉 Indent colors adjusted
+- 🐉 typeScript adjusted colors
+- 🐉 selections colors changes in the tilling windows `Ctrl+Shift+p` `Ctrl+.`
+- 🐉 license added
+- 🐉 Changelog has been remastered.
 
 ---
-## [Version 1.4.0]
+<p align="center">
+    <img src="./images/changelogs images/version%201.5.0.png" width="70%" />
+</p>
 
-- Line selector adjusted
-- theme selector adjusted
-- Remote Windows Icon color adjusted
-- some bugs fixed
+- 🐉 Italic and Bold Fixed
+- 🐉 Colors adjusted
+- 🐉 bugs Fixed
+- 🐉 Code Examples Added
 
 ---
-## [Version 1.3.9]
-
-- themes changed
-- Color adjust
-- more colors 
-- some bugs removed 
