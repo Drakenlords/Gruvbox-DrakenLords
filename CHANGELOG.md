@@ -4,6 +4,16 @@
 
 ---
 <p align="center">
+    <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/changelogs%20images/" width="70%" />
+</p>
+
+- 🐉 Charts colors compatibility added
+- 🐉 Notebook colors added
+
+
+
+---
+<p align="center">
     <img src="https://raw.githubusercontent.com/Drakenlords/Gruvbox-DrakenLords/main/images/changelogs%20images/version%201.5.5.png" width="70%" />
 </p>
 

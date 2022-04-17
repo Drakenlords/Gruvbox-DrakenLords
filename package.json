@@ -2,7 +2,7 @@
 	"name": "gruvbox-draken-lords",
 	"displayName": "Gruvbox DrakenLords",
 	"description": "Gruvbox Dark Collections by DrakenLords 🐉",
-	"version": "1.5.5",
+	"version": "1.6.0",
 	"publisher": "DrakenLords",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -14,11 +14,18 @@
 		"type": "git",
 		"url": "https://github.com/Drakenlords/Gruvbox-DrakenLords"
 	},
-		"engines": {
+	"engines": {
 		"vscode": "^1.15.0"
 	},
 	"categories": [
 		"Themes"
+	],
+	"badges": [
+		{
+			"url": "https://badge.fury.io/gh/Drakenlords%2FGruvbox-DrakenLords.svg",
+			"href": "https://github.com/Drakenlords/Gruvbox-DrakenLords",
+			"description": "Repository of the theme!"
+		}
 	],
 	"contributes": {
 		"themes": [
